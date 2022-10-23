@@ -249,3 +249,5 @@ This file contains the root flag.
 └─$ cat root.txt                                                         1 ⨯
 bf7**************
 ```
+# References
+[1] https://ethicalhacs.com/netmon-hackthebox-walkthrough/
