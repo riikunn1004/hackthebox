@@ -9,3 +9,4 @@
 |[Weak RSA](https://app.hackthebox.com/challenges/6)|-|
 |[Jerry](https://app.hackthebox.com/machines/144)|-|
 |[Netmon](https://app.hackthebox.com/machines/177)| [link (En)](https://github.com/riikunn1004/hackthebox/blob/main/Netmon/Write-up.md)|
+|[Blue](https://app.hackthebox.com/machines/51)|-|
